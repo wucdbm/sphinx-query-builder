@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "illuminate/database": "^8.40.0|^9.0-dev"
+        "illuminate/database": "^12.0"
     },
     "suggest": {
         "illuminate/events": "If you would like to use illuminate/database events. Check README.md for more information."
